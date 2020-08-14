@@ -1,0 +1,1 @@
+See https://shentar.github.io/2018/02/11/jalbum/ for details.
